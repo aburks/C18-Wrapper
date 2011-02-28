@@ -1,1 +1,5 @@
-Windows version of C18 developed by Alex Singh and Cody Planteen.
+Wrapper for the C18 compiler used in Georgia Tech's Embedded Microcontroller Design course, ECE 4175. 
+
+Written in C for Windows by Alex Singh & Cody Planteen during the Summer of 2007.
+
+A Mac version is forthcoming and was the reason this repository was created.
